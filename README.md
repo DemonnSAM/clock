@@ -11,6 +11,7 @@ You can run this project locally using any static server (Live Server / localhos
 
 ---
 
+
 ## ✨ Features
 
 * 🕰️ Real-time digital clock
@@ -21,7 +22,22 @@ You can run this project locally using any static server (Live Server / localhos
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technology
+
+
+- [🕒 Spider-Man Themed Digital Clock](#-spider-man-themed-digital-clock)
+  - [🚀 Live Preview](#-live-preview)
+  - [✨ Features](#-features)
+  - [🛠️ Techn](#️-techn)
+  - [📂 Project Structure](#-project-structure)
+  - [▶️ How to Run Locally](#️-how-to-run-locally)
+  - [📸 Screenshot](#-screenshot)
+  - [🎯 Future Improvements](#-future-improvements)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
+
+
+Technologies Used
 
 * **HTML5** – Structure
 * **CSS3** – Styling & layout
@@ -63,14 +79,7 @@ cd clock
 
 ## 📸 Screenshot
 
-*(Add a screenshot of your project here)*
-
-You can add it like this:
-
-```md
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e9667681-4ada-4869-bfdb-dc5b1a3d0c53" />
-
-```
+![Screenshot](./screenshot/preview_img.png)
 
 ---
 
