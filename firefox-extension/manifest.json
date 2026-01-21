@@ -1,0 +1,10 @@
+{   
+    "manifest_version" : 2,
+    "name" : "Spider man new tab clock",
+    "version" : "1.0",
+    "description" : "A simple Spider man theme clock for every new tab",
+    "chrome_url_overrides" :  {
+
+        "newtab":  "newtab.html"
+    }
+}

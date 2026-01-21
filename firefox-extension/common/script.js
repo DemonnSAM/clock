@@ -5,7 +5,6 @@ function clockStarter(){
     const minutes = now.getMinutes().toString().padStart(2,0);
     const seconds = now.getSeconds().toString().padStart(2,0);
     document.getElementById("clock").textContent = `${hour}:${minutes}:${seconds}${mederian}`
-
 }
 
 clockStarter();

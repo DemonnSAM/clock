@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-image: url(spiderman.jpg);
+    background-image: url(../screenshot/spiderman.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -22,4 +22,8 @@ body{
     backdrop-filter: blur(5px);
     width: 100%;
     text-align: center;
+}
+p{
+    color: beige;
+    font-size: large;
 }
